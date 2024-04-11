@@ -1,3 +1,3 @@
-Lista*cria_lista() {
-    Lista *li
+cria_lista() {
+    
 }
